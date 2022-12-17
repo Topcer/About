@@ -28,7 +28,7 @@
 <h1></h1>
 
 ### :man_technologist: Обо мне :
-Я студент инженер-тестировщик  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> на портале Нетология.
+Я студент инженер по тестированию. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
 ### :hammer_and_wrench: Языки и инструменты :
