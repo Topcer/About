@@ -18,7 +18,7 @@
 </div>
 <div align="center">
   <h1>
-  Привет, дорогой Гость!
+  Hello, dear guest!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -27,16 +27,16 @@
 </div>
 <h1></h1>
 
-### :man_technologist: Обо мне :
+### :man_technologist: About me:
 Я студент инженер по тестированию. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
 
-### :hammer_and_wrench: Языки и инструменты :
-В процессе изучения...
----
-
-### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Topcer&theme=dark&locale=ru)](https://git.io/streak-stats)
+### :hammer_and_wrench: Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topcer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-          
+---
+
+### :fire: My GitHub stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topcer&show_icons=true&theme=material-palenight)
+---
